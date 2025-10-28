@@ -1,4 +1,4 @@
-```json
+
 {
 "name": "verkiezingspool-2025",
 "version": "1.0.0",
@@ -12,4 +12,4 @@
 "build": "vite build"
 }
 }
-```
+
